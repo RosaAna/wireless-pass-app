@@ -1,0 +1,54 @@
+.ssid-div, .pass-div, .mac-div, .country-div {
+    display: block;
+}
+
+.input-container {
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 15px;
+    padding: 0px 20px 10px 20px;
+    border-radius: 2px;
+    box-shadow: 0 2px 5px rgba(0,0,0,.50);
+    
+}
+
+.add-button-container {
+    text-align: right;
+}
+
+.error-popup {
+    display: inline-block;
+    background-color: rgba(0,0,0,.50);
+    border-radius: 2px;
+    color: white;
+    position: static;
+    
+}
+
+.list {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 15px;
+}
+
+#search-input, #search-input-label {
+    display: inline;
+}
+
+.search-container {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.back-button {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 15px;
+}
