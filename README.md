@@ -1,14 +1,5 @@
-# A Blank PhoneGap App
+# Wireless Pass App
 
-## Usage
+Made with HTML, CSS and JS, using Material Design Lite Framework, Firebase and JQuery.
 
-### PhoneGap CLI
-
-    $ phonegap create my-app --template blank
-
-### Desktop
-
-In your browser, open the file:
-
-    /www/index.html
-
+Not intended for general use yet, only for practices, etc.
